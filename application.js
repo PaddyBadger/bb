@@ -19,12 +19,12 @@ var btc5 = new Image();
 var btc6 = new Image();
 
 
-btc1.src = '../images/6.png'; 
-btc2.src = '../images/9.png';
-btc3.src = "../images/3.png";  
-btc4.src = '../images/2.png'; 
-btc5.src = '../images/5.png'; 
-btc6.src = '../images/8.png';
+btc1.src = 'images/6.png'; 
+btc2.src = 'images/9.png';
+btc3.src = "images/3.png";  
+btc4.src = 'images/2.png'; 
+btc5.src = 'images/5.png'; 
+btc6.src = 'images/8.png';
 
 function init() {
 drawAll();
